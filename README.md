@@ -22,8 +22,9 @@ Here is the log of what I am learning and building day by day:
 
 | Day | Topic Covered | Source Code Link | Description |
 | :--- | :--- | :--- | :--- |
-| *Day 1* | String Methods | [View Code](https://github.com) | Mastered .upper(), .lower(), .split(), and other built-in text manipulation tricks. |
-| *Day 2* | Coming Tomorrow... | [View Code]() | I will update this daily! |
+| *Day 1* | Hello World! | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day01_Hello_World.py) | first program Hello, World! |
+| *Day 2* | simple addition | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day02_addition.py) | this is sum of two numbers. (print function) |
+| *Day 3* | calculator | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day03_Calculator.py) | include addition, subraction, mutiplication and others calculator functions. |
 
 ---
 
