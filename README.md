@@ -10,7 +10,7 @@ My goal is to master Python step-by-step, from foundational concepts to advanced
 
 You don't need to download or install anything to see my progress! You can run my daily practice codes instantly in your browser using Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/)]
+[![Open In Colab](https://colab.research.google.com/)](https://google.com)
 
 (Note: Click the badge above to browse and execute the interactive notebooks.)
 
