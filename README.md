@@ -10,7 +10,7 @@ My goal is to master Python step-by-step, from foundational concepts to advanced
 
 You don't need to download or install anything to see my progress! You can run my daily practice codes instantly in your browser using Google Colab.
 
-[![Open In Colab](https://google.com)](https://google.com)
+[![Open In Colab](https://colab.research.google.com/assest/colab-badge.svg)](https://google.com)
 
 (Note: Click the badge above to browse and execute the interactive notebooks.)
 
@@ -25,6 +25,7 @@ Here is the log of what I am learning and building day by day:
 | *Day 1* | Hello World! | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day01_Hello_World.py) | first program Hello, World! |
 | *Day 2* | simple addition | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day02_addition.py) | this is sum of two numbers. (print function) |
 | *Day 3* | calculator | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day03_Calculator.py) | include addition, subraction, mutiplication and others calculator functions. |
+| *Day 4* | Strings Method | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day04_Strings_Method.py) | Master .upper(), .lower(), .capitalize(), .istitle() and many others . |
 
 ---
 
@@ -59,7 +60,7 @@ git clone https://github.com
 cd Python-Learning-Journey
 
 # Run any script (Example)
-python "python_strings_demo.py"
+python "Day01_Hello_World.py"
 
 
 ---
