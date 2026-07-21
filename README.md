@@ -9,6 +9,7 @@ My goal is to master Python step-by-step, from foundational concepts to advanced
 ## ⚡ Live Interactive Demo
 
 You don't need to download or install anything to see my progress! You can run my daily practice codes instantly in your browser using Google Colab.
+other option - press (Ctrl+.)
 
 [![Open In Colab](https://colab.research.google.com/)](https://google.com)
 
@@ -26,6 +27,8 @@ Here is the log of what I am learning and building day by day:
 | *Day 2* | simple addition | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day02_addition.py) | this is sum of two numbers. (print function) |
 | *Day 3* | calculator | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day03_Calculator.py) | include addition, subraction, mutiplication and others calculator functions. |
 | *Day 4* | Strings Method | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day04_Strings_Method.py) | Master .upper(), .lower(), .capitalize(), .istitle() and many others . |
+| *Day 5* | If-Else Conditionals | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day05_if_else.py) | Learned conditional statements (`if-elif-else`) and checking marks with grades. |
+
 
 ---
 
