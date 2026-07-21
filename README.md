@@ -27,8 +27,10 @@ Here is the log of what I am learning and building day by day:
 | *Day 2* | simple addition | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day02_addition.py) | this is sum of two numbers. (print function) |
 | *Day 3* | calculator | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day03_Calculator.py) | include addition, subraction, mutiplication and others calculator functions. |
 | *Day 4* | Strings Method | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day04_Strings_Method.py) | Master .upper(), .lower(), .capitalize(), .istitle() and many others . |
-| *Day 5* | If-Else Conditionals | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day05_if_else.py) | Learned conditional statements (`if-elif-else`) and checking marks with grades. |
-| *Day 6* | 🔒 Coming Tomorrow... | [View Code]() | *Next Python topic will be uploaded here tomorrow!* |
+
+| *Day 5 (Code 1)* | If-Else Conditionals | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day05(code1)_if_else.py) | Mastered basic conditional flow using `if`, `elif`, and `else` statements. |
+| *Day 5 (Code 2)* | Elif Grading Practice | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day05(code2)_elif_practice.py) | Created a student grading system using multiple `elif` conditions and logical operators. |
+| *Day 6* | 🔒 Coming Tomorrow... | [View Code]() | *Next Python topic will be uploaded here tomorrow! |
 
 
 ---
