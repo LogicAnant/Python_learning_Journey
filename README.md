@@ -11,7 +11,7 @@ My goal is to master Python step-by-step, from foundational concepts to advanced
 You don't need to download or install anything to see my progress! You can run my daily practice codes instantly in your browser using Google Colab.
 other option - press (.)
 
-[![Open In Github Codespaces](https://colab.research.google.com/)](https://google.com)
+[![Open In Github Codespaces](https://github.com/codespaces/automatic-invention-wvvp644pxvx7c5v9v)](https://github.com)
 
 (Note: When you click the button, GitHub will automatically create a secure virtual machine with all my files pre-loaded for you.)
 
