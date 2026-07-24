@@ -31,10 +31,9 @@ Here is the log of what I am learning and building day by day:
 | *Day 5 (Code 2)* | Elif Grading Practice | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day05(code2)_elif_practice.py) | Created a student grading system using multiple `elif` conditions and logical operators. |
 | *Day 6 (code 1)* | For Loop & Range Function | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day06_forloop&range.py) | Created an interactive multiple-choice quiz program using `for` loop, `range()` function, and conditional statements. |
 | *Day 6 (code 2)* | Time Module & Greetings | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day06(code2)_time_greetings.py) | Used Python's `time` module and conditional statements to create a real-time auto greeting system based on the time of the day. |
-| *Day 8* | | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day08_password_manager.py) | *Next Python topic will be uploaded here tomorrow! |
-
 | *Day 7* | Match-Case Menu Program | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day07_march_statement.py) | Created a structural pattern matching menu program using `match-case` to handle user choices for multiple utilities. |
-| *Day 8* | 🔒 Coming Tomorrow... | [View Code]() | *Next Python topic will be uploaded here tomorrow! |
+| *Day 8* | | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day08_password_manager.py) | *Next Python topic will be uploaded here tomorrow! |
+| *Day 9* | 🔒 Coming Tomorrow... | [View Code]() | *Next Python topic will be uploaded here tomorrow! |
 
 
 ---
