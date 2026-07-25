@@ -33,8 +33,11 @@ Here is the log of what I am learning and building day by day:
 | *Day 6 (code 2)* | Time Module & Greetings | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day06(code2)_time_greetings.py) | Used Python's `time` module and conditional statements to create a real-time auto greeting system based on the time of the day. |
 | *Day 7* | Match-Case Menu Program | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day07_march_statement.py) | Created a structural pattern matching menu program using `match-case` to handle user choices for multiple utilities. |
 | *Day 8* | Password Management | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day08_password_manager.py) | Created a dynamic password system using nested `match-case` statements and structural pattern guards. |
-| *Day 9* | 🔒 Coming Tomorrow... | [View Code]() | *Next Python topic will be uploaded here tomorrow! |
 
+| **Day 9** | Python Functions & GMean | [View Code](./functions_gmean.py) | Created user-defined functions with `def` to calculate the mathematical Geometric Mean ($\sqrt{a \times b}$). |
+
+
+| *Day 9* | 🔒 Coming Tomorrow... | [View Code]() | *Next Python topic will be uploaded here tomorrow! |
 
 ---
 
