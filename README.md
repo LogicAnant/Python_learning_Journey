@@ -34,7 +34,7 @@ Here is the log of what I am learning and building day by day:
 | *Day 7* | Match-Case Menu Program | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day07_march_statement.py) | Created a structural pattern matching menu program using `match-case` to handle user choices for multiple utilities. |
 | *Day 8* | Password Management | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day08_password_manager.py) | Created a dynamic password system using nested `match-case` statements and structural pattern guards. |
 | *Day 9* | Python Functions & GMean | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day09_functions_gmean.py) | Created user-defined functions with `def` to calculate the mathematical Geometric Mean ($\sqrt{a \times b}$). |
-| *Day 9* | List methods | [View Code]() | *Next Python topic will be uploaded here tomorrow! |
+| *Day 10* | List methods | [View Code]() | *Next Python topic will be uploaded here tomorrow! |
 
 ---
 
