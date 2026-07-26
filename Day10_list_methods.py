@@ -1,3 +1,4 @@
+# lists are iterable it means we can change aur list. it's very important for interviews.
 list = ["Apple", "blue", "green"]
 list.sort()
 print(list)
