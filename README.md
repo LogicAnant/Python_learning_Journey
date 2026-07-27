@@ -49,8 +49,8 @@ Here is the log of what I am learning and building day by day:
 
 ## 📈 My Roadmap
 - [x] *Phase 1:* Python Basics (Variables, Data Types, Strings)
-- [ ] *Phase 2:* Control Flow & Loops (If-Else, For, While)
-- [ ] *Phase 3:* Data Structures (Lists, Tuples, Dictionaries, Sets)
+- [x] *Phase 2:* Control Flow & Loops (If-Else, For, While)
+- [x] *Phase 3:* Data Structures (Lists, Tuples, Dictionaries, Sets)
 - [ ] *Phase 4:* Functions & Modules
 - [ ] *Phase 5:* Object-Oriented Programming (OOPs)
 - [ ] *Phase 6:* Mini Projects (Calculator, Games, Web Scraping)
