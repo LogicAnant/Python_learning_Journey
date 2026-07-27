@@ -36,7 +36,7 @@ Here is the log of what I am learning and building day by day:
 | *Day 9* | Python Functions & GMean | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day09_functions_gmean.py) | Created user-defined functions with `def` to calculate the mathematical Geometric Mean ($\sqrt{a \times b}$). |
 | *Day 10* | List Methods | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day10_list_methods.py) | Mastered various list operations and built-in methods including `.sort()`, `.reverse()`, `.append()`, `.insert()`, `.index()`, `.extend()`, `.count()`, and `.copy()`. Also practiced list sum dynamically using f-strings. |
 | *Day 11* | Python Tuples | [View Code](./Day11_tuples.py) | Mastered tuple operations including slicing, indexing, membership testing, concatenation, and built-in methods like `.count()` and `.index()`. Also practiced modifying tuples by converting them into lists. |
-| *Day 11* | next day.. | [Viw here tomorrowew Code]() | *Next Python topic will be uploaded ! |
+| Day 12 | next day.. | [Viw here tomorrowew Code]() | *Next Python topic will be uploaded ! |
 
 ---
 
