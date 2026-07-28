@@ -28,7 +28,7 @@ Here is the log of what I am learning and building day by day:
 | *Day 3* | calculator | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day03_Calculator.py) | include addition, subraction, mutiplication and others calculator functions. |
 | *Day 4* | Strings Method | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day04_Strings_Method.py) | Master .upper(), .lower(), .capitalize(), .istitle() and many others . |
 | *Day 5 (Code 1)* | If-Else Conditionals | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day05(code1)_if_else.py) | Mastered basic conditional flow using `if`, `elif`, and `else` statements. |
-| *Day 5 (Code 2)* | Elif Grading Practice | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day05(code2)_elif_practice.py) | Created a student grading system using multiple `elif` conditions and logical operators. |
+| *Day 5 (Code 2)* | elif Grading Practice | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day05(code2)_elif_practice.py) | Created a student grading system using multiple `elif` conditions and logical operators. |
 | *Day 6 (code 1)* | For Loop & Range Function | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day06_forloop&range.py) | Created an interactive multiple-choice quiz program using `for` loop, `range()` function, and conditional statements. |
 | *Day 6 (code 2)* | Time Module & Greetings | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day06(code2)_time_greetings.py) | Used Python's `time` module and conditional statements to create a real-time auto greeting system based on the time of the day. |
 | *Day 7* | Match-Case Menu Program | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day07_march_statement.py) | Created a structural pattern matching menu program using `match-case` to handle user choices for multiple utilities. |
@@ -36,7 +36,7 @@ Here is the log of what I am learning and building day by day:
 | *Day 9* | Python Functions & GMean | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day09_functions_gmean.py) | Created user-defined functions with `def` to calculate the mathematical Geometric Mean ($\sqrt{a \times b}$). |
 | *Day 10* | List Methods | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day10_list_methods.py) | Mastered various list operations and built-in methods including `.sort()`, `.reverse()`, `.append()`, `.insert()`, `.index()`, `.extend()`, `.count()`, and `.copy()`. Also practiced list sum dynamically using f-strings. |
 | *Day 11* | Python Tuples | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day11_tuples.py) | Mastered tuple operations including slicing, indexing, membership testing, concatenation, and built-in methods like `.count()` and `.index()`. Also practiced modifying tuples by converting them into lists. |
-| *Day 12* | next day.. | [Viw here tomorrowew Code]() | *Next Python topic will be uploaded ! |
+| *Day 12* | next day.. | [View here tomorrow Code]() | *Next Python topic will be uploaded ! |
 
 ---
 
