@@ -39,7 +39,7 @@ Here is the log of what I am learning and building day by day:
 | *Day 12* | Quiz Game | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day12_quize_game.py) | Created a dynamic quiz game using `random.choice()`, loops, and tuples. Implemented input normalization with `.strip()` and `.lower()` for case-insensitive validation. |
 | *Day 13* | String Formatting & f-strings | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day13_f_string.py) | Mastered Python's f-strings (formatted string literals) for dynamic string interpolation. Learned to embed expressions, format numbers with precision, and align text using curly braces `{}` syntax. |
 | *Day 14* | Docstrings, PEP 8 & Zen of Python | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day14_docstring_pep8.py) | Mastered Python documentation standards using docstrings, applied PEP 8 style guidelines, and explored The Zen of Python philosophy.  | 
-| *Day 14* | doc,file | [View here tomorrow Code]() | *Next Python topic will be uploaded ! |
+| *Day 15* | doc,file | [View here tomorrow Code]() | *Next Python topic will be uploaded ! |
 
 ---
 
