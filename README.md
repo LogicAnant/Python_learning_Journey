@@ -42,6 +42,8 @@ Here is the log of what I am learning and building day by day:
 | *Day 15* | Fibonacci & Factorial | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day15_Recursive_Functions.py) | Implemented recursive solutions for Fibonacci sequence and factorial calculations. Learned about base cases, recursive cases, and how recursion works under the hood with the call stack. |
 | *Day 16* | Python Sets | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Sets.py) | Mastered set operations including uniqueness, mutating methods like `.add()`, `.discard()`, and mathematical operations such as `.union()`, `.intersection()`, and differences. |
 | *Day 17* | Dictionary | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day17_Dictionary.py) | Mastered dictionary initialization, data retrieval using keys, and essential structural manipulation methods like `.update()`, `.clear()`, `.pop()`, and `del`. |
+| Day 18 | Loop with else | [View Code](Day_18_Loop_with_else.py) | Explored Python's unique `else` block functionality with `for` and `while` loops. Learned that the `else` block runs only when a loop terminates normally without encountering a `break` statement. |
+
 | *Day 18* | Loop with else | [View here tomorrow Code]() | *Next Python topic will be uploaded ! |
 
 ---
