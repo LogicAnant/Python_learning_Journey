@@ -43,6 +43,7 @@ Here is the log of what I am learning and building day by day:
 | *Day 16* | Python Sets | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Sets.py) | Mastered set operations including uniqueness, mutating methods like `.add()`, `.discard()`, and mathematical operations such as `.union()`, `.intersection()`, and differences. |
 | *Day 17* | Dictionary | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day17_Dictionary.py) | Mastered dictionary initialization, data retrieval using keys, and essential structural manipulation methods like `.update()`, `.clear()`, `.pop()`, and `del`. |
 | *Day 18* | Loop with else | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day_18_loop_with_else.py) | Explored Python's unique `else` block functionality with `for` and `while` loops. Learned that the `else` block runs only when a loop terminates normally without encountering a `break` statement. |
+| *Day 19* | Exception Handling | [View Code](https://github.com) | Implemented robust error handling using `try...except...finally` blocks to catch run-time exceptions like `ValueError`. Built an interactive number guessing game that seamlessly continues playing on invalid user inputs rather than crashing. |
 | *Day 19* | Exception Handling | [View here tomorrow Code]() | *Next Python topic will be uploaded ! |
 
 ---
