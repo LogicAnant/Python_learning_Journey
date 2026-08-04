@@ -21,19 +21,29 @@ finally:
 
 # there are the number guessing game.
 import random
-try:
-    while True:
-        num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
-        computer = random.choice(num)
-        print("Guess the number betweeen 0-9")
+
+print("--- Welcome to the Number Guessing Game ---")
+
+while True:
+    # Generate a random number between 0 and 9
+    computer = random.randint(0, 9)
+    print("\nGuess the number between 0-9")
+    
+    # Wrap only the risky input conversion inside the try block
+    try:
         user = int(input("Enter your number: "))
-        if user == computer:
-            print("Correct! You won")
-        else:
-            print("Wrong number try again")
-        quit = input("enter 'exit' to quit or press any key to continue: ")
-        if quit == "exit":
-            print("Game over")
-            break
-except:
-    print("please enter a valid integer")
+    except ValueError:
+        print("❌ Invalid input! Please enter a valid integer.")
+        continue  # Skips the rest of the loop and starts a new round
+        
+    # Check the guess
+    if user == computer:
+        print(f"🎉 Correct! The number was {computer}. You won!")
+    else:
+        print(f"😢 Wrong number. The computer chose {computer}. Try again!")
+        
+    # Ask to quit
+    user_choice = input("Enter 'exit' to quit or press any key to continue: ").strip().lower()
+    if user_choice == "exit":
+        print("Game over. Thanks for playing!")
+        break
