@@ -19,7 +19,7 @@ except ValueError:
 finally:
     print("Thanks for using my program")
 
-# there are the number guessing game.
+# there are the interesting number guessing game.
 import random
 
 print("--- Welcome to the Number Guessing Game ---")
