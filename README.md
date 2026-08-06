@@ -45,9 +45,7 @@ Here is the log of what I am learning and building day by day:
 | *Day 18* | Loop with else | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day_18_loop_with_else.py) | Explored Python's unique `else` block functionality with `for` and `while` loops. Learned that the `else` block runs only when a loop terminates normally without encountering a `break` statement. |
 | *Day 19* | Exception Handling | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day19_Exception_Handling.py) | Implemented robust error handling using `try...except...finally` blocks to catch run-time exceptions like `ValueError`. Built an interactive number guessing game that seamlessly continues playing on invalid user inputs rather than crashing. |
 | *Day 20* | Short-Hand If/Else & Enumerate | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day20_ShortHand_enumerate.py) | Explored clean coding techniques including single-line ternary conditional statements. Mastered the `enumerate()` function to simultaneously track loop indices and item values cleanly without manual counter variables. |
-
-| **Day 21** | Python Modules & Imports | [View Code](https://github.com) | Explored Python's import mechanics using `import`, `from`, `as` keywords, and the `dir()` introspection function. Learned why wildcard (`*`) imports cause namespace pollution and how to avoid variable shadowing. |
-
+| *Day 21* | Python Modules & Imports | [View Code](https://github.com) | Explored Python's import mechanics using `import`, `from`, `as` keywords, and the `dir()` introspection function. Learned why wildcard (`*`) imports cause namespace pollution and how to avoid variable shadowing. |
 | *Day 21* | Short hand if else statement | [View here tomorrow Code]() | *Next Python topic will be uploaded ! |
 
 ---
