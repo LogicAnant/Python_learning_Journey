@@ -47,6 +47,7 @@ Here is the log of what I am learning and building day by day:
 | *Day 20* | Short-Hand If/Else & Enumerate | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day20_ShortHand_enumerate.py) | Explored clean coding techniques including single-line ternary conditional statements. Mastered the `enumerate()` function to simultaneously track loop indices and item values cleanly without manual counter variables. |
 | *Day 21* | Python Modules & Imports | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day21_importing_module.py) | Explored Python's import mechanics using `import`, `from`, `as` keywords, and the `dir()` introspection function. Learned why wildcard (`*`) imports cause namespace pollution and how to avoid variable shadowing. |
 | *Day 22* | The `__name__ == "__main__"` Idiom | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day22_if_name_main_inpython.py) | Explored Python's execution context using `__name__`. Learned how to control script execution patterns, prevent accidental code execution during imports, and build modular, reusable scripts. |
+| *Day 23* | The `os` Module & File Automation | [View Code](https://github.com) | Mastered operating system interactions using the `os` module. Automated bulk directory creation, handled folder renaming, safely checked path existence, and learned to inspect system directory structures via loops. |
 | *Day 23* | os module | [View here tomorrow Code]() | *Next Python topic will be uploaded ! |
 
 ---
