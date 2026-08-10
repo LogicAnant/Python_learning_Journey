@@ -51,7 +51,7 @@ Here is the log of what I am learning and building day by day:
 | *Day 24* | Secret Code Cipher Generator | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day24_secret_code_program.py) | Built a text encryption and decryption tool. Implemented string slicing, character rotation, conditional token mapping, and integrated the `random` module to inject noise characters into data streams. |
 | *Day 25* | Variable Scope & File Handling Basics | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day25_variable_scope_file_io.py) | Explored local vs. global variable scopes using the `global` keyword. Mastered basic file I/O operations including reading, writing, appending, and leveraging the contextual `with` statement for automatic resource management. |
 | *Day 26* | Advanced File I/O: Readlines & Writelines | [View Code](https://github.com) | Mastered bulk file operations using `.readlines()` and `.writelines()`. Learned the architectural differences between line-by-line buffering (`readline`) vs bulk reading (`readlines`) and optimized data writing sequential streams. |
-| *Day 26* | Read lines and other methods  | [View here tomorrow Code]() | *Next Python topic will be uploaded ! |
+| *Day 27* | Read lines and other methods  | [View here tomorrow Code]() | *Next Python topic will be uploaded ! |
 
 ---
 
