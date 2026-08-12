@@ -1,28 +1,25 @@
-#------------------
-# seek() function
-#------------------
+# 1. Setup sample files
+with open('file.txt', 'w') as f:
+    f.write('abcdefghijklmnopqrstuvwxyz')
 
-# seek() function is used to change the current file position.
+# 2. Demonstrating seek() and tell()
+print("--- Seek and Tell ---")
 with open('file.txt', 'r') as f:
-    print(f.read())
-    f.seek(5) # Move the file pointer to the 5th byte in the file.
-    print(f.read())
+    print(f"Start position: {f.tell()}")       # Output: 0
+    
+    first_read = f.read(10)
+    print(f"Read first 10 characters: {first_read}")
+    print(f"Position after read: {f.tell()}")    # Output: 10
+    
+    f.seek(5)                                    # Move pointer back to index 5
+    print(f"Position after seek(5): {f.tell()}") # Output: 5
+    print(f"Read from position 5: {f.read()}")   # Reads 'fgh...z'
 
-#------------------
-# tell() function
-#------------------
-
-# tell() function is used to get the current file position.
-    data = f.read(10)
-    print(f"Current file position: {f.tell()}")
-
-#------------------
-# truncate() function
-#------------------
-
-# truncate() function is used to truncate the file to a specified size.
+# 3. Demonstrating truncate()
+print("\n--- Truncate ---")
 with open('sample.txt', 'w') as s:
     s.write('This is a sample text file.')
-    s.truncate(5)
+    s.truncate(7)                                # Truncate to first 7 bytes
+
 with open('sample.txt', 'r') as s:
-    print(s.read())
+    print(f"Truncated content: {s.read()}")      # Output: 'This is'
