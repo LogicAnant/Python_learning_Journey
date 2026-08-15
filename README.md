@@ -55,7 +55,7 @@ Here is the log of what I am learning and building day by day:
 | *Day 28* | Lambda Functions | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day28_Lambda_function.py) | Mastered anonymous (lambda) functions in Python. Learned to write concise, single-expression functions with multiple arguments, execute immediately invoked lambdas, and use them as arguments for short, clean operations. |
 | *Day 29* | Map, Filter & Reduce | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day29_Map,filter&reduce.py) | Mastered functional programming concepts in Python. Learned to transform iterables using `map()`, extract elements based on conditions using `filter()`, and aggregate sequences into a single value using `reduce()` combined with lambda expressions. |
 | *Day 30* | Identity (`is`) vs Equality (`==`) | [View Code](https://github.com/LogicAnant/Python_learning_Journey/blob/main/Day30_'is'&'='.py) | Explored the crucial difference between identity (`is`) and equality (`==`) operators. Learned that `==` compares the actual values/contents of objects, whereas `is` checks if both variables reference the exact same memory location (object identity). |
-| *Day 31* | 'is' vs '=' | [View here tomorrow Code]() | *Next Python topic will be uploaded ! |
+| *Day 31* | oops intro | [View here tomorrow Code]() | *Next Python topic will be uploaded ! |
 
 ---
 
